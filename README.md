@@ -3,8 +3,7 @@ Gitチュートリアル
  - feature-A
  - feature-B
  - feature-C
-Daichan-Dayo
-Daichi-Kawaiina
+Daich-4 sai
 Hisae-ko
 
 ==========
