@@ -1,7 +1,7 @@
 Gitチュートリアル
 
  - feature-A
- - fix-B
+ - feature-B
  - feature-C
 Daichan-Dayo
 Daichi-Kawaiina
