@@ -4,5 +4,6 @@ Gitチュートリアル
  - fix-B
  - feature-C
 Daichan
+Daichan-Dayo
 
 ==========
