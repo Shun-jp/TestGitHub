@@ -5,5 +5,6 @@ Gitチュートリアル
  - feature-C
 Daich-4 sai
 Hisae-ko
+Eichan
 
 ==========
