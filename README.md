@@ -5,5 +5,6 @@ Gitチュートリアル
  - feature-C
 Daichan
 Daichan-Dayo
+Daichi-Kawaiina
 
 ==========
