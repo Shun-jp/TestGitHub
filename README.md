@@ -1,6 +1,8 @@
 Gitチュートリアル
 
-Eichan
+Eichan-dayo
+Takahashi-kun
+Akihiro-
 
 
 ==========
