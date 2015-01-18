@@ -3,7 +3,7 @@ Gitチュートリアル
  - feature-A
  - feature-B
  - feature-C
- - Super Takahashi-kun
+ - Takahashi 2
 Daich-4 sai
 Hisae-ko
 Eichan
