@@ -4,6 +4,6 @@ Type: Functional
 Rationale: Without this appointments will be missed and people will waste their time
 Fit Criterion: kadjfhkdtejewr fd gethi
 Originator: Shunsuke
-Comments: [Shunsuke] Duplicate of REQ-3
+Comments: [Shunsuke] Duplicate of REQ-3 and also ambiguous
 
 
