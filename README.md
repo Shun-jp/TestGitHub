@@ -1,8 +1,4 @@
-Gitチュートリアル
+M814-14K-Tyrrell
+================
 
-Eichan-dayo
-Takahashi-kun
-Akihiro-
-20:17
-
-==========
+Team work repository for M814 2014K presentation - Sebastian Tyrrell tutor group
