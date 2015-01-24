@@ -1,0 +1,9 @@
+REQ-ID: FR1
+Description: This is requirement for patients to see their appointments
+Type: Functional
+Rationale: Without this appointments will be missed and people will waste their time
+Fit Criterion: kadjfhkdtejewr fd gethi
+Originator: Shunsuke
+Comments: [Shunsuke] Duplicate of REQ-3
+
+

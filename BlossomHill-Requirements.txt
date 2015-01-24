@@ -1,6 +1,6 @@
-REQ-ID: 001
+REQ-ID: FR2
 Description: This is a requirement for theraposts to see appointments.
-Type: Web
+Type: Functional
 Rationale: Therapists need to be able to work to a schedule
 Originator: Shunsuke
 Comments: [Shunsuke] This is a comment in the shunsuke=example
